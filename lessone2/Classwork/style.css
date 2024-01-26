@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+}
+p{
+    font-size: 22px;
+    text-align: justify;
+}
+a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(28, 27, 27); 
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1.1em;
+    
+}
+a:hover{
+    color: white;
+    background-color: gray;    
+}
+.item1{
+    background-color: black ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.item2{
+    text-align: center;
+}
+.item3{
+    width: 50%;
+    text-align: center;
+    margin-left: 300px;
+    text-align: justify;
+}
+.item4{
+    margin-left: 160px;
+}
+img{
+    width: 28%;
+    height: 40%;
+}
+.con2{
+    margin-left: 20px;
+    
+}

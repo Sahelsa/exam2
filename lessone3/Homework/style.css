@@ -1,0 +1,138 @@
+body{
+    margin: 0;
+}
+img{
+    width: 100%;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.item1{
+    text-align: center;
+}
+.item2{
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    margin-left: 2px;
+    padding: 3px 7px;
+}
+.item2:hover{
+    
+    background-color: rgb(71, 71, 71);
+}
+.con1{
+    width: 790px;
+    height: 530px;
+    margin-left: 30px;
+    box-shadow: 1px 1px 10px gray;
+    margin-bottom: 30px; 
+}
+.con2{
+    width: 350px;
+    height: 420px;
+    margin-left: 30px;
+    box-shadow: 1px 1px 10px gray;
+}
+.con4{
+    width: 350px;
+    height: 420px;
+    margin-left: 30px;
+    margin-top: -100px;
+    box-shadow: 1px 1px 10px gray;
+}
+.con1-con2{
+    display: flex;
+}
+.con1-item1{
+    margin-left: 15px;
+}
+.item3{
+    padding: 15px 23px;
+    margin-bottom: 10px;
+    background-color: white;
+    border: 0.5px solid rgb(211, 210, 210);
+}
+.item3:hover{
+    background-color: rgb(211, 210, 210);
+}
+.con1-con45{
+    display: flex;
+}
+.item4{
+    background-color: rgb(225, 222, 222);
+    margin: 0;
+    
+    padding-top: 17px;
+    padding-left: 10px;
+    padding-bottom: 17px;
+}
+.item5{
+    width: 60px;
+    height: 60px;
+    margin-left: 15px;
+    margin-top: 15px;
+}
+.item6{
+    margin-left: 10px;
+}
+.con4-con1{
+    display: flex;
+    border-bottom: 1px solid rgb(225, 222, 222);
+    padding-bottom: 10px;
+}
+.con4-con1:hover{
+    background-color:  rgb(225, 222, 222);;
+}
+.con1-con5{
+    margin-top: 30px;
+    box-shadow: 2px 2px 10px gray;
+}
+.item7{
+    border: 0px;
+    padding: 2px 8px;
+    margin-bottom: 6px;
+    margin-top: 6px;
+}
+.item7:hover{
+    color: white;
+    background-color: black;
+}
+.con1-con6{
+    width: 350px;
+    margin: 0;
+    margin-left: 10px;
+    border: 0px;
+}
+.item8{
+    padding: 15px 25px;
+    margin-left: 5px;
+}
+.con5{
+    background-color: gray;
+    padding-bottom: 30px;
+    padding-top: 40px;
+    margin-bottom: 0;
+}
+.item81{
+    background-color: rgb(186, 185, 185);
+    color: white;
+    border: 0px;
+}
+.item81:hover{
+    color: rgb(186, 185, 185);
+    background-color: white;
+}
+.item82{
+    background-color: black;
+    color: white;
+    border: 0px;
+}
+.item82:hover{
+    background-color: white;
+    color: black;
+}
+.item9{
+    margin-left: 10px;
+}

@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+.con1{
+    background-image: url("./img/beach3.jpg");
+    height: 100vh;
+    background-size: 100%;
+    display: flex;
+    align-items: flex-end;
+}
+.item2{
+    margin: 0px;
+    margin-bottom: 70px;
+    padding-left:20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 580px;
+    background-color: rgba(254, 215, 19,0.7);   
+}
+.con2{
+    width: 47%;
+    margin-left: 30px;
+    margin-top: 50px;   
+}
+.con2-1{
+    display: flex;
+}
+img{
+    width: 100%;
+    border-top: 8px solid rgb(254, 215, 19);
+}

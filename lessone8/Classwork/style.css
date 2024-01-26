@@ -1,0 +1,31 @@
+table{
+    border-collapse: collapse;
+    margin-left: 40px;
+    margin-top: 60px;
+}
+th, td{
+    border: 1px solid black;
+    padding-left: 53px;
+    padding-right: 53px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.s{
+    background-color: rgb(232, 86, 86);
+}
+.g{
+    background-color: rgb(9, 156, 9);
+}
+.gr{
+    background-color: rgb(163, 161, 161);
+}
+.z{
+    background-color: yellow;
+}
+.item1{
+    font-size: 2em;
+    text-align: center;
+}
+#item2{
+    padding-left: 20px;
+}

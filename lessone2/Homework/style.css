@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+}
+img{
+    width: 32%;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+video{
+    width: 32%;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+audio{
+    width: 32%;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+a{
+    text-decoration: none;
+    margin-left: 170px;
+    background-color: gray;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    padding-top: 100px;
+}
+a:hover{
+    background-color: rgb(149, 147, 147);
+    color: black;
+}
+div{
+    background-color:black;
+    padding-bottom: 25px;
+}
+.item1{
+    background-color: black;
+    
+}

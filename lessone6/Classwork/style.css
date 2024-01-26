@@ -1,0 +1,18 @@
+.continer{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+}
+.con1{
+    width: 24%;
+    border: 1px groove gray;
+}
+img{
+    width: 100%;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}

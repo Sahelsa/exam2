@@ -1,0 +1,22 @@
+.con1{
+    width: 30%;
+    box-shadow: -2px 2px 8px gray;
+}
+img{
+    width: 100%;
+}
+.item1{
+    margin-top: -50px;
+    margin-left: 10px;
+}
+.item2{
+    margin-left: 10px;
+}
+.con11{
+    border: 0.1px solid gray;
+}
+.con12{
+    width: 100%;
+    background-color: gray;
+    color: gray;
+}

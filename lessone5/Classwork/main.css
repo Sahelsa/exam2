@@ -1,0 +1,22 @@
+.item1{
+    margin-left: 10px;
+}
+.item2{
+    border: 1px solid rgb(242, 242, 242);
+}
+.con1{
+    display: flex;
+    justify-content: space-evenly;
+}
+.con2{
+    width: 22%;
+}
+img{
+    width: 100%;
+}
+.item3{
+    width: 100%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+}
